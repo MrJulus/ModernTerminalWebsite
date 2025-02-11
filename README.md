@@ -1,5 +1,5 @@
 # A Modern Console Website
-preview : (here)[https://mr-julus.is-a.dev/preview/modern-website]
+preview : https://mr-julus.is-a.dev/preview/modern-website
 
 # Command Description
 ## Available Commands
